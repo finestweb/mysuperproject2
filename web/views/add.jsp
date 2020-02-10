@@ -2,16 +2,15 @@
   Created by IntelliJ IDEA.
   User: user35
   Date: 10.02.2020
-  Time: 10:24
+  Time: 11:41
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
-  И меня добавиьте тоже! Разбираемся!
-  </body>
+<head>
+    <title>Add new user</title>
+</head>
+<body>
+
+</body>
 </html>
